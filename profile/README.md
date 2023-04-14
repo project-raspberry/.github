@@ -1,23 +1,23 @@
-![RiceDroid](https://github.com/ricedroidOSS/.github/raw/master/profile/sushi.png)
+![RisingTechOSS](https://github.com/RisingTechOSS/.github/raw/master/profile/risingOS_banner.png)
 
-RiceDroid Android
-=====================
+the RisingOS Android Project
+=============================
 
-[![Download RiceDroid](https://github.com/ricedroidOSS/.github/raw/master/profile/download.png)](https://www.pling.com/p/1619738/)
+[![Download RisingOS](https://github.com/RisingTechOSS/.github/raw/master/profile/download.png)](https://www.pling.com/p/1619738/)
 
-Welcome to the RiceDroid Open Source Software! 
+Welcome to Rising Tech Open Source Software! 
 
-Now is your chance to get this ROM onto your device and enjoy our spices!
+Now is your chance to try the RisingOS Android Project on your device!
 
 ### Where to start
 
 Please visit the following repositories for better insights:
 
 Manifest: contains all information about repositories of RiceDroid, how to do device bringup, tips about building, and credits.
-- [Android Manifest](https://github.com/ricedroidOSS/android)
+- [Android Manifest](https://github.com/RisingTechOSS/android)
 
 RiceDroid Devices: repositories used to build RiceDroid for every official releases are placed here.
-- [ricedroidOSS-Devices](https://github.com/ricedroidOSS-Devices)
+- [RisingOSS-Devices](https://github.com/RisingTechOSS-Devices)
 
 After visiting these repositories, familiarize yourself with our build system and try to follow the steps below:
 
