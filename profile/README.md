@@ -17,7 +17,7 @@ Manifest: contains all information about repositories of RiceDroid, how to do de
 - [Android Manifest](https://github.com/RisingTechOSS/android)
 
 RiceDroid Devices: repositories used to build RiceDroid for every official releases are placed here.
-- [RisingOSS-Devices](https://github.com/RisingTechOSS-Devices)
+- [RisingOSS-Devices](https://github.com/RisingOSS-devices)
 
 After visiting these repositories, familiarize yourself with our build system and try to follow the steps below:
 
