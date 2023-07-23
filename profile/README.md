@@ -1,4 +1,4 @@
-![RisingTechOSS](https://github.com/RisingTechOSS/.github/raw/master/profile/risingOS_banner.png)
+![RisingTechOSS](https://github.com/RisingTechOSS/.github/raw/master/profile/risingOS_banner.jpg)
 
 the RisingOS Android Project
 =============================
@@ -13,10 +13,10 @@ Now is your chance to try the RisingOS Android Project on your device!
 
 Please visit the following repositories for better insights:
 
-Manifest: contains all information about repositories of RiceDroid, how to do device bringup, tips about building, and credits.
+Manifest: contains all information about repositories of risingOS, how to do device bringup, tips about building, and credits.
 - [Android Manifest](https://github.com/RisingTechOSS/android)
 
-RiceDroid Devices: repositories used to build RiceDroid for every official releases are placed here.
+risingOS Devices: repositories used to build risingOS for every official releases are placed here.
 - [RisingOSS-Devices](https://github.com/RisingOSS-devices)
 
 After visiting these repositories, familiarize yourself with our build system and try to follow the steps below:
@@ -28,4 +28,4 @@ After visiting these repositories, familiarize yourself with our build system an
 Feel free to visit our Telegram group.
 
 - [Telegram Announcements Channel](https://t.me/riceDroidNews)
-- [Telegram Discussion Group](https://t.me/riceDroidsupport)
+- [Telegram Discussion Group](https://t.me/risingOSG)
