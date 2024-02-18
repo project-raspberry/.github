@@ -1,4 +1,4 @@
-![RisingTechOSS](https://github.com/RisingTechOSS/.github/raw/master/profile/risingOS_banner.jpg)
+![RisingTechOSS](https://github.com/RisingTechOSS/.github/raw/master/profile/risingOS_banner.png)
 
 the RisingOS Android Project
 =============================
