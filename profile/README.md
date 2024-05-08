@@ -27,5 +27,5 @@ After visiting these repositories, familiarize yourself with our build system an
 
 Feel free to visit our Telegram group.
 
-- [Telegram Announcements Channel](https://t.me/riceDroidNews)
+- [Telegram Announcements Channel](https://t.me/risingOS_News)
 - [Telegram Discussion Group](https://t.me/risingOSG)
