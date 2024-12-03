@@ -17,7 +17,7 @@ Manifest: contains all information about repositories of risingOS, how to do dev
 - [Android Manifest](https://github.com/RisingTechOSS/android)
 
 risingOS Devices: repositories used to build risingOS for every official releases are placed here.
-- [RisingOSS-Devices](https://github.com/RisingOSS-devices)
+- [RisingTechOSS-Devices](https://github.com/RisingTechOSS-devices)
 
 After visiting these repositories, familiarize yourself with our build system and try to follow the steps below:
 
