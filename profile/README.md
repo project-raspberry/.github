@@ -1,31 +1,16 @@
-![RisingTechOSS](https://github.com/RisingTechOSS/.github/raw/master/profile/risingOS_banner.png)
+![Project Raspberry banner](https://github.com/project-raspberry/.github/raw/master/profile/banner.png)
 
-the RisingOS Android Project
-=============================
+# Project Raspberry
 
-[![Download RisingOS](https://github.com/RisingTechOSS/.github/raw/master/profile/download.png)](https://www.pling.com/p/1619738/)
+Welcome to Project Raspberry!
 
-Welcome to Rising Tech Open Source Software! 
+We are a ROM based on risingOS, themed after raspberries. #RaspberriesAreTheBest
 
-Now is your chance to try the RisingOS Android Project on your device!
-
-### Where to start
-
-Please visit the following repositories for better insights:
-
-Manifest: contains all information about repositories of risingOS, how to do device bringup, tips about building, and credits.
-- [Android Manifest](https://github.com/RisingTechOSS/android)
-
-risingOS Devices: repositories used to build risingOS for every official releases are placed here.
-- [RisingTechOSS-Devices](https://github.com/RisingTechOSS-devices)
-
-After visiting these repositories, familiarize yourself with our build system and try to follow the steps below:
-
-- Adapt your device tree / create files according to our method.
+- [Manifest](https://github.com/project-raspberry/android)
 
 ### Important Links
 
 Feel free to visit our Telegram group.
 
-- [Telegram Announcements Channel](https://t.me/risingOS_News)
-- [Telegram Discussion Group](https://t.me/risingOSG)
+- [Telegram Announcements Channel](https://t.me/project_raspberry_news)
+- [Telegram Discussion Group](https://t.me/project_raspberry_discussion)
